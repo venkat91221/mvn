@@ -6,9 +6,9 @@
         <title>Hello Java EE 7 Continuous Delivery!</title>
     </head>
     <body>
-        <h1>Hello khadar     1 Continuous Delivery!</h1>
-        <h1>Hello subash $ megana   2 Continuous Delivery!</h1>
-        <h1>Hello srinu $ puja hedey 3 Continuous Delivery!</h1>
+        <h1>Hello devops   1 Continuous Delivery!</h1>
+        <h1>Hello aws  2 Continuous Delivery!</h1>
+        <h1>Hello python 3 Continuous Delivery!</h1>
         <h1>Hello Pune    4 Continuous Delivery!</h1>
         <h1>Hello Mumbai 5 Continuous Delivery!</h1>
          <h1>Hello Mumbai 5 Continuous Delivery!</h1>
